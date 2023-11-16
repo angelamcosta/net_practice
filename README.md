@@ -2,7 +2,7 @@
 
 <div align=center>
   
-  ![badge](https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/netpracticen.png)
+  ![badge](https://raw.githubusercontent.com/angelamcosta/angelamcosta/main/42_badges/netpracticem.png)
   
 </div>
 
